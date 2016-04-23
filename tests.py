@@ -1,0 +1,1 @@
+print("This is will be a file to automate some functional tests")
